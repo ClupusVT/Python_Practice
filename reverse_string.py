@@ -1,5 +1,4 @@
-
-
+##This python practice trying to reverse the string###
 def reverse_string(string):
     list = []
     for c in string:
